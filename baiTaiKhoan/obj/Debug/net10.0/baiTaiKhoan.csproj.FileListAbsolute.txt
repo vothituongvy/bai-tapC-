@@ -1,0 +1,14 @@
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.AssemblyInfoInputs.cache
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.AssemblyInfo.cs
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.csproj.CoreCompileInputs.cache
+D:\HocThem\baiTaiKhoan\bin\Debug\net10.0\baiTaiKhoan.exe
+D:\HocThem\baiTaiKhoan\bin\Debug\net10.0\baiTaiKhoan.deps.json
+D:\HocThem\baiTaiKhoan\bin\Debug\net10.0\baiTaiKhoan.runtimeconfig.json
+D:\HocThem\baiTaiKhoan\bin\Debug\net10.0\baiTaiKhoan.dll
+D:\HocThem\baiTaiKhoan\bin\Debug\net10.0\baiTaiKhoan.pdb
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.dll
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\refint\baiTaiKhoan.dll
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.pdb
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\baiTaiKhoan.genruntimeconfig.cache
+D:\HocThem\baiTaiKhoan\obj\Debug\net10.0\ref\baiTaiKhoan.dll
