@@ -1,0 +1,14 @@
+D:\HocThem\baitapbuoi5\bin\Debug\net10.0\baitapbuoi5.exe
+D:\HocThem\baitapbuoi5\bin\Debug\net10.0\baitapbuoi5.deps.json
+D:\HocThem\baitapbuoi5\bin\Debug\net10.0\baitapbuoi5.runtimeconfig.json
+D:\HocThem\baitapbuoi5\bin\Debug\net10.0\baitapbuoi5.dll
+D:\HocThem\baitapbuoi5\bin\Debug\net10.0\baitapbuoi5.pdb
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.AssemblyInfoInputs.cache
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.AssemblyInfo.cs
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.csproj.CoreCompileInputs.cache
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.dll
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\refint\baitapbuoi5.dll
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.pdb
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\baitapbuoi5.genruntimeconfig.cache
+D:\HocThem\baitapbuoi5\obj\Debug\net10.0\ref\baitapbuoi5.dll
